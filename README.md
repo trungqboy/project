@@ -2,11 +2,11 @@
 
 
 
-     git clone https://github.com/TeamTrung/EmployeeManagement.git
+     git clone https://github.com/Trungqboy/EmployeeManagement.git
 
      cd EmployeeManagement
      
-**Author** :pencil2: TeamTrung 👮‍♂️
+**Author** :pencil2: Trungqboy 👮‍♂️
 
 
 # 従業員管理システム
